@@ -31,7 +31,7 @@ class PostRepository implements PostInterface
             'title'       => $post->title,
             'description' => $post->description,
         ];
-    }
+    } 
 
     /**
      * @param $id
